@@ -1,0 +1,165 @@
+2023-04-19T19:14:32+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:15:33+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:16:50+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:17:50+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:18:51+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:20:52+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:22:53+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:24:54+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:26:55+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:58:49+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T19:59:50+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:01:51+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:03:52+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:05:53+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:07:54+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Emilia...')
+#4 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:08:33+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin.php(34): require_once('C:\\Users\\Emilia...')
+#4 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\themes.php(10): require_once('C:\\Users\\Emilia...')
+#5 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:08:40+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin.php(34): require_once('C:\\Users\\Emilia...')
+#4 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\themes.php(10): require_once('C:\\Users\\Emilia...')
+#5 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
+2023-04-19T20:08:44+00:00 CRITICAL Uncaught Error: Failed opening required 'inc/class-storefront.php' (include_path='.;C:\php\pear') in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php:27
+Stack trace:
+#0 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-settings.php(591): include()
+#1 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-config.php(93): require_once('C:\\Users\\Emilia...')
+#2 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-load.php(50): require_once('C:\\Users\\Emilia...')
+#3 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\admin.php(34): require_once('C:\\Users\\Emilia...')
+#4 C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-admin\index.php(10): require_once('C:\\Users\\Emilia...')
+#5 {main}
+  thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
+
