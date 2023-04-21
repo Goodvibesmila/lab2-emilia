@@ -26,6 +26,7 @@ get_header( 'shop' );
  * @hooked woocommerce_breadcrumb - 20
  * @hooked WC_Structured_Data::generate_website_data() - 30
  */
+
 do_action( 'woocommerce_before_main_content' );
 
 ?>
@@ -41,10 +42,22 @@ do_action( 'woocommerce_before_main_content' );
 	 * @hooked woocommerce_taxonomy_archive_description - 10
 	 * @hooked woocommerce_product_archive_description - 10
 	 */
+
+	 //Lagt till en add action där jag lagt till en informationstext
+	 // På arkivsidan.
+	add_action('woocommerce_archive_description', 'title_function');
+
+	function title_function(){
+	
+		echo 'Just nu har vi fri frakt på alla köp över 300 kronor.';
+	
+	}
+	
 	do_action( 'woocommerce_archive_description' );
 	?>
 </header>
 <?php
+
 if ( woocommerce_product_loop() ) {
 
 	/**
@@ -70,7 +83,7 @@ if ( woocommerce_product_loop() ) {
 			wc_get_template_part( 'content', 'product' );
 		}
 	}
-
+	
 	woocommerce_product_loop_end();
 
 	/**
@@ -101,7 +114,5 @@ do_action( 'woocommerce_after_main_content' );
  * @hooked woocommerce_get_sidebar - 10
  */
 do_action( 'woocommerce_sidebar' );
-
-echo 'Du har nått slutet på sidan';
 
 get_footer( 'shop' );

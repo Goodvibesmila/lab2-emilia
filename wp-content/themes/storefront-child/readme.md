@@ -9,6 +9,7 @@ Moment:
 7. Därefter så installerade jag CPT tillägg och testade tillägget.
 8. Jag skapade sedan en woocommerce-mapp med en fil från föräldramappen som jag skrev en override echo-kod i. Jag valde archive filen och man ser nu mitt echo precis ovanför footern på min arkivsida.
 9. Jag har också lagt till en functions.php och har testat att ändra checkout. 
+10. Har skapat en template-override i archive. Jag har lagt till en informationstext i woocommerce archive description.
 
 
 
