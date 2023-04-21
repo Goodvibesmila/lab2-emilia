@@ -2,9 +2,14 @@ Moment:
 
 1. Laddade ner wordpress-projekt.
 2. Skapade en "tema-mapp", en ny databas "lab2-emilia" och en ny wordpressprofil med användarnamn medie-admin. 
-3. Installerade wordpress-tillägget och fyllde i nödvändiga uppgifter.
+3. Installerade wordpress woocommerce-tillägget och fyllde i nödvändiga uppgifter.
 4. Kopplade på ett barntema till storefront, kallat för "storefront-child". 
-5. 
+5. Jag skapade sedan 4 produkter, samt två olika kategorier (beskrivning nedan).
+6. Jag skapade därefter ett plugin "emilias-plugin" och la till nödvändiga mappar, samt filer. Jag testkörde sedan plugin, med ett echo och det verkar fungera.
+7. Därefter så installerade jag CPT tillägg och testade tillägget.
+8. Jag skapade sedan en woocommerce-mapp med en fil från föräldramappen som jag skrev en override echo-kod i. Jag valde archive filen och man ser nu mitt echo precis ovanför footern på min arkivsida.
+9. 
+
 
 
 
@@ -43,3 +48,5 @@ remove_action()
 add_action( 'woocommerce', 'addandremove' ); 
 
 */
+
+template override föreläsning 17/4 del 1, 1.54 in

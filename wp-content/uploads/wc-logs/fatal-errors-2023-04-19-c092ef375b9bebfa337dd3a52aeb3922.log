@@ -163,3 +163,5 @@ Stack trace:
 #5 {main}
   thrown in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\functions.php on line 27
 
+2023-04-19T22:13:08+00:00 CRITICAL syntax error, unexpected identifier "get_footer", expecting "," or ";" in C:\Users\Emilia\Desktop\PHP\lab2-emilia\wp-content\themes\storefront-child\woocommerce\archive-product.php on line 108
+
