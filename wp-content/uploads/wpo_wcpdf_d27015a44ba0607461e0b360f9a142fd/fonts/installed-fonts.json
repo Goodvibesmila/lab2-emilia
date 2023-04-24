@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/OpenSans-Normal",
+        "bold": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/OpenSans-Bold",
+        "italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/Segoe-Normal",
+        "bold": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/Segoe-Bold",
+        "italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/currencies",
+        "bold": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/currencies",
+        "italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/currencies",
+        "bold_italic": "C:\/Users\/Emilia\/Desktop\/PHP\/lab2-emilia\/wp-content\/uploads\/wpo_wcpdf_d27015a44ba0607461e0b360f9a142fd\/fonts\/currencies"
+    }
+}

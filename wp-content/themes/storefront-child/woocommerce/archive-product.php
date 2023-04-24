@@ -43,8 +43,9 @@ do_action( 'woocommerce_before_main_content' );
 	 * @hooked woocommerce_product_archive_description - 10
 	 */
 
-	 //Lagt till en add action där jag lagt till en informationstext
-	 // På arkivsidan.
+	 // Ändring genom Barntema!
+	 // Lagt till en add action där jag lagt till en informationstext
+	 // på arkivsidan.
 	add_action('woocommerce_archive_description', 'title_function');
 
 	function title_function(){

@@ -9,7 +9,10 @@ Moment:
 7. Därefter så installerade jag CPT tillägg och testade tillägget.
 8. Jag skapade sedan en woocommerce-mapp med en fil från föräldramappen som jag skrev en override echo-kod i. Jag valde archive filen och man ser nu mitt echo precis ovanför footern på min arkivsida.
 9. Jag har också lagt till en functions.php och har testat att ändra checkout. 
-10. Har skapat en template-override i archive. Jag har lagt till en informationstext i woocommerce archive description.
+10. Har skapat en template-override i archive. Jag har lagt till en informationstext i woocommerce archive description. Rad 46-60.
+11. Jag har lagt till en remove thumbnails, en add_action echo och en checkout-funktion i functions.php Remove_action tar bort bilderna på produkterna på archive, shop och page, men inte på single. Du kan därför fortfarande se bilderna inne på den enskilda produktsidan. Jag kollade efter andra funktioner, men det bilderna kändes som det mest lämpliga att plocka bort, i förhållande till pris och produktnamn med fler. Däremot hade jag inte valt att använda remove för bilderna, om det här var en riktig e-handel.
+12. Lagt till plugin emilias-plugin. Där har jag lagt till en funktion som ändrar kommentarsfältet vid checkout.
+13. Lagt till kommentarer för samtliga funktioner i barntemat.
 
 
 
@@ -22,15 +25,13 @@ Valda produkter (samt motivation):
 
 3. Hörlurar - för den aktiva personen. Idag är många på språng och behöver ett enkelt sätt att vara tillgängliga på. Genom en trådlös hörlur, kan de ta med musiken, samtal, podcast eller annat med sig ut utomhus, till gymmet eller andra åtaganden. Branschen för trådlösa hörlurar har exploderat de senaste åren och efterfrågan för nya eller utvecklade produkter. Det är också en stor marknad inom sportsindustrin.
 
-4. Klocka - Jag valde klockan för att det är ett lätt sätt för människor att få med sig livet ut. Det är verkligen enkelt att slippa ta med mobil, klocka plånbok ut på löpturen och placera allt ansvar i klockan. Det är också många som är intresserade av att veta vad deras statistisk är såsom sovrytm, stegpoäng, distansen de sprang på träningen, hur hög puls de har med mer. Även active watch-branschen har exploderat de senaste åren och samma utbud finns här.
+4. Smart Watch - Jag valde klockan för att det är ett lätt sätt för människor att få med sig livet ut. Det är verkligen enkelt att slippa ta med mobil, klocka plånbok ut på löpturen och placera allt ansvar i klockan. Det är också många som är intresserade av att veta vad deras statistisk är såsom sovrytm, stegpoäng, distansen de sprang på träningen, hur hög puls de har med mer. Även active watch-branschen har exploderat de senaste åren och samma utbud finns här.
 
-5. Gymsko - Ytterligare ett komplement till sko-kollektionen.
+5. Beanie - Jag ville också ha något form av klädesplagg. Anledningen till det är för att jag upplever att det är en bra produkt att nyttja för variable products-typen. En mössa är också en enkel produkt att sälja in, vilket jag upplever följer idéen med min e-handel.
 
-6. Beanie - Jag ville också ha något form av klädesplagg. Anledningen till det är för att jag upplever att det är en bra produkt att nyttja för variable products-typen. En mössa är också en enkel produkt att sälja in, vilket jag upplever följer idéen med min e-handel.
+6. WorkoutSchedule - Jag ville komma på och testa en produkt som fungerar bra som en nedladdningsbar produkt. Ett träningsschema följer också temat på e-handeln och ingår i samma kategori. 
 
-7. WorkoutSchedule - Jag ville komma på och testa en produkt som fungerar bra som en nedladdningsbar produkt. Ett träningsschema följer också temat på e-handeln och ingår i samma kategori. 
-
-8. Watch mini - egentligen samma som klocka, men för de som önskar en mindre produkt. Ville fylla ut elektronik-kategorin.
+7. Watch mini - egentligen samma som klocka, men för de som önskar en mindre produkt. Ville fylla ut elektronik-kategorin.
 
 
 

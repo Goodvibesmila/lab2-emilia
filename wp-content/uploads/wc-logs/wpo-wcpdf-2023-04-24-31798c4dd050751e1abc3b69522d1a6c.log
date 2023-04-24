@@ -1,0 +1,2 @@
+2023-04-24T07:35:20+00:00 INFO Template setting migrated from C:/Users/Emilia/Desktop/PHP/lab2-emilia/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2023-04-24T07:36:12+00:00 CRITICAL Table 'lab2-emilia.wp_wcpdf_invoice_number' doesn't exist
