@@ -45,24 +45,3 @@ Valda produktkategorier:
 3. Kläder - En kategori som är väldigt bred och som innehåller många olika typer av plagg. Det är därför en enkel kategori att fylla.
 
 4. Workouts - Jag ville också ha någon form av tjänst på hemsidan och inom workouts kan man ladda ner olika typer av träningsscheman som är individuellt anpassade efter det personliga behovet. 
-
-
-
-
- /* ----- ÄR det, de här han menar med justera woocommerce via hook, 
- remove och add? Eller hur skriver man funktionen?
-
- function addandremove()
-
-{
-
-add_action()
-remove_action()
-
-}
-
-add_action( 'woocommerce', 'addandremove' ); 
-
-*/
-
-template override föreläsning 17/4 del 1, 1.54 in
